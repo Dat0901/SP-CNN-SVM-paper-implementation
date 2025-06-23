@@ -1,0 +1,3 @@
+features/*.npy
+logs/DCNN_color/model_best.pt
+__pycache__/
