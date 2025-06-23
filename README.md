@@ -11,3 +11,6 @@ Run
 ### Credit
 Link to paper: \
 [Vehicle Color Recognition With Spatial Pyramid Deep Learning](https://ieeexplore.ieee.org/document/7118723) Chuanping Hu; Xiang Bai; Li Qi; Pan Chen; Gengjian Xue; Lin Mei
+
+### TODO
+- [ ] Add Spatial Pyramid
