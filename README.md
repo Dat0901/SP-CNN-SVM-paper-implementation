@@ -18,4 +18,5 @@ Link to paper: \
 
 ### TODO
 - [ ] Add Spatial Pyramid 2x2
+- [ ] Change sklearn.svm.SVC with LibLinear
 - [ ] Be able to use GPU
