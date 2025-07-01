@@ -17,6 +17,6 @@ Link to paper: \
 [Vehicle Color Recognition With Spatial Pyramid Deep Learning](https://ieeexplore.ieee.org/document/7118723) Chuanping Hu; Xiang Bai; Li Qi; Pan Chen; Gengjian Xue; Lin Mei
 
 ### TODO
-- [ ] Add Spatial Pyramid 2x2
+- [x] Add Spatial Pyramid 2x2 (have tried on local machine, find out that fc7 or conv5 are about the same, but fc7 is faster when inferece)
 - [ ] Change sklearn.svm.SVC with LibLinear
 - [ ] Be able to use GPU
